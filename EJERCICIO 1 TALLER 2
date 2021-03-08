@@ -1,0 +1,64 @@
+a) 3 clases
+b)en la clase familia de animales
+c)2
+d)animal1 y animal2
+e)5
+f)peso 
+g) nombre , genero , pareja, total animales
+h) null
+i)no tienen nombre , son nulos
+j) 0 o no tiene valor
+k)
+
+animal1.pareja ----> animal2
+animal2.pareja ----> animal1
+
+l) masculino
+m)
+
+si se comenta la linea 15 , no se podra formar la familia porque cebra no tiene pareja
+
+si se comenta la linea 16, no pasa nada , todo seguira igual
+
+si se comentan ambas lineas , no se puede formar la familia :c
+
+n) en el de la clase animal
+
+o)nunca tendran parejas ademas nunca seria inicializado
+
+p) no se puede eliminar 
+
+q) no se podria correr el programa porque hay una linea que trata de cambiar el genero a F , y si la borraramos nunca habrian familias por el mismo genero
+
+r) porque los animales se crearan en otra clase y mediante a los metodos que tiene la clase animal ira aumentando o disminuyendo ese numero
+
+s)  porque el atributo totalanimales se encuentra dentro de la clase animal , entonces animal1 tambien lo tiene
+
+t) porque se esta llamando al metodo , y se entrega el valor que se introducira en el metodo
+
+u)5
+
+v)tener hijo te devuelve un objeto de la clase animal y procrear pone como apuntadores para quien es la madre y el padre , aparte llama el metodo tenerhijo
+
+w)por referencia
+
+x)al nombre de animal1
+
+y)porque seguimos refiriendonos al mismo animal
+
+z) pregunta p?? es lo mismo?
+
+aa)como esta buscando al que tegan el genero con letra M , decir this es para llamar al animal con ese genero y volverlo el padre , lo mismo en el otro caso con la madre , se 
+busca el que tenga el genero f para ponerlo de madre
+
+cc)para poder usarse? no entendi bien la pregunta
+
+dd)si , no pasa nada porque static permite el acceso a métodos, variables de clase sin la necesidad de instanciar un objeto de la clase en cuestión.
+tonces todo bien
+
+ee)vuelve los valores que se le dan a string
+
+
+
+
+
